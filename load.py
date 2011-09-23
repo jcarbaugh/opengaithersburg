@@ -38,6 +38,9 @@ CANDIDATES = {
 AMOUNT_FIELDS = ('cash_amount','check_amount','credit_amount','inkind_amount')
 
 class GeocoderFilter(filters.Filter):
+    """ Geocodes addresses to latitude and longitude. A Yahoo! App ID is
+        required to use this filter.
+    """
 
     ENDPOINT = "http://where.yahooapis.com/geocode"
 
@@ -104,9 +107,14 @@ class CandidateFilter(filters.Filter):
         return record
 
 def parse_datetime(dt):
+    """ Parse a datetime object from the date format used in the data files.
+    """
     return datetime.datetime.strptime(dt, '%m/%d/%Y %I:%M:%S %p').date()
 
 def clean_state(state):
+    """ Convert a full state name into its abbreviation or remove state from
+        the record if the name or abbreviation is not valid.
+    """
     state = state.strip()
     if state in STATE_NAMES:
         state = STATE_NAMES[state]
@@ -115,6 +123,8 @@ def clean_state(state):
     return state
 
 def merge_amounts(*amounts):
+    """ Return the sum of the given dollar amounts.
+    """
     return sum(amounts)
 
 #
@@ -141,9 +151,16 @@ def _err_stream(datatype):
     )
 
 
-def create_tables():
+def create_tables(delete=False):
+    """ Create basic tables used for storing campaign finance data.
 
-    if os.path.exists(DB_PATH):
+        Candidate table is prepopulated from a static list of candidates.
+
+        Parameters:
+            delete - True to delete database and recreate from scratch
+    """
+
+    if delete and os.path.exists(DB_PATH):
         os.unlink(DB_PATH)
 
     conn = sqlite3.connect(DB_PATH)
@@ -231,7 +248,7 @@ def load_contributions():
 
 if __name__ == '__main__':
 
-    create_tables()
+    create_tables(delete=True)
     load_contributions()
 
 """
