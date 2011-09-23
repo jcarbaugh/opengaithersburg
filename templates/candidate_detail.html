@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+
+{% block js %}
+    <script src="https://www.google.com/jsapi"></script>
+    <script>
+        var gv;
+        var initCharts = function() {
+
+            gv = google.visualization;
+
+            var currencyFormatter = new gv.NumberFormat({prefix: '$'});
+
+            var dataTimeline = new gv.DataTable();
+            dataTimeline.addColumn('string', 'Date');
+            dataTimeline.addColumn('number', 'Amount');
+            dataTimeline.addRows([
+                {% for d in timeline %}
+                    ['{{ d.0.strftime("%h %d") }}', {{ d.1 }}]{% if not loop.last %},{% endif %}
+                {% endfor %}
+            ]);
+
+            currencyFormatter.format(dataTimeline, 1);
+
+            var chart = new gv.AreaChart(document.getElementById('chart-timeline'));
+            chart.draw(dataTimeline, {
+                allowHtml: true,
+                legend: 'none',
+                axisTitlesPosition: 'none',
+                chartArea: {top: 0, left: 0, width: '100%', height: '80%'},
+                height: 180,
+                hAxis: {titleTextStyle: {color: '#FF0000'}}
+            });
+
+            var dataContribTypes = new gv.DataTable();
+            dataContribTypes.addColumn('string', 'Contribution Type');
+            dataContribTypes.addColumn('number', 'Amount');
+            dataContribTypes.addRows([
+                {% for k, v in contribution_types.iteritems() %}
+                    ['{{ k }}', {{ v }}]{% if not loop.last %},{% endif %}
+                {% endfor %}
+            ]);
+
+            currencyFormatter.format(dataContribTypes, 1);
+
+            var chart = new google.visualization.PieChart(document.getElementById('chart-contrib-type'));
+            chart.draw(dataContribTypes, {
+                allowHtml: true,
+                legend: 'bottom',
+                chartArea: {top: 0, left: 0, width: '100%', height: '80%'},
+                height: 180
+            });
+
+        };
+        google.load("visualization", "1", {packages:["corechart"]});
+        google.setOnLoadCallback(initCharts);
+    </script>
+{% endblock %}
+
+{% block content %}
+
+    <h2>{{ candidate.name }}</h2>
+
+    <div class="row">
+        <figure class="span6">
+            <h3>{{ year }} Contribution Timeline</h3>
+            <div id="chart-timeline"></div>
+            <figcaption></figcaption>
+        </figure>
+        <figure class="span6">
+            <h3>Direct v. In-kind Contributions</h3>
+            <div id="chart-contrib-type"></div>
+            <figcaption></figcaption>
+        </figure>
+        <div class="span4">
+            <p><b>In-kind</b> contributions are goods or services that have been given to a campaign in lieu of direct monetary donations.</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span8">
+            <h3>In-kind Contributions</h3>
+            <table class="zebra-striped">
+                <thead>
+                    <tr>
+                        <th>Description</th>
+                        <th>Amount</th>
+                        <th>Transactions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for ik in in_kind %}
+                        <tr>
+                            <td>{{ ik.description|safe }}</td>
+                            <td class="currency">{{ ik.total|currency }}</td>
+                            <td>{{ ik.transactions }}</td>
+                        </tr>
+                    {% else %}
+                        <tr>
+                            <td colspan="3" class="no-data">{{ candidate.name }} has not received in-kind contributions.</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div class="span8">
+            <h3>Contributors to the campaign</h3>
+            <table class="zebra-striped">
+                <thead>
+                    <tr>
+                        <th>Description</th>
+                        <th>Amount</th>
+                        <th>Transactions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for c in contributors %}
+                        <tr>
+                            <td>{{ c.contributor|safe }} <a href="/elections/contributions?contributor={{ c.contributor|urlencode }}">⇾</a></td>
+                            <td class="currency">{{ c.total|currency }}</td>
+                            <td>{{ c.transactions }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+
+    <h2>Candidates for 2011 City Council</h2>
+
+    <div class="row">
+        <div class="span10">
+            <table class="zebra-striped">
+                <thead>
+                    <tr>
+                        <th>Candidate</th>
+                        <th>Total Raised</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for c in candidates %}
+                    <tr>
+                        <td><a href="/elections/2011/council/{{ c.slug }}">{{ c.name }}</a></td>
+                        <td>{{ c.total|currency }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div class="span6">
+            <figure>
+                <ul class="media-grid">
+                    <li><a href="http://www.flickr.com/photos/mr_t_in_dc/5129789305/"><img src="/static/images/rr-station.jpg" class="thumbnail"></a></li>
+                </ul>
+                <figcaption><cite>Gaithersburg RR Station</cite> by Mr. T in DC</figcaption>
+            </figure>
+        </div>
+    </div>
+
+{% endblock %}

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% if query %}
+        <h3>Search for <em>{{ query|safe }}</em></h3>
+    {% else %}
+        <h3>All contributions</h3>
+    {% endif %}
+    <table>
+        <thead>
+            <tr>
+                <th>Year</th>
+                <th>Candidate</th>
+                <th>Seat</th>
+                <th>Contributor</th>
+                <th>Amount</th>
+                <th>Type</th>
+                <th>Description</th>
+                <th>Transaction Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for c in contributions %}
+                <tr>
+                    <td>{{ c.year }}</td>
+                    <td><a href="/elections/{{ c.year }}/{{ c.seat }}/{{ c.slug }}">{{ c.candidate }}</a></td>
+                    <td>{{ c.seat }}</td>
+                    <td>{{ c.contributor|safe }}</td>
+                    <td>{{ c.amount|currency }}</td>
+                    <td>{% if c.is_inkind == 1 %}In-kind{% else %}Direct{% endif %}</td>
+                    <td>{% if c.description %}{{ c.description|safe }}{% endif %}</td>
+                    <td>{{ c.transaction_date }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% endblock %}

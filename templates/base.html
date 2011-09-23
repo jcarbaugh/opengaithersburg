@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{% block title %}Open Gaithersburg{% endblock %}</title>
+    <link rel="stylesheet" href="/static/bootstrap.min.css">
+    <style>
+        header[role=banner] h1 { display: inline; }
+        header[role=banner] h1 a { text-decoration: none; }
+        .topbar-inner {
+            background-color: #242;
+            background: -webkit-linear-gradient(top, #252, #363);
+        }
+        div[role=main] { margin-top: 5em; }
+        .table-description {
+            color: #666;
+            height: 40px;
+            padding: 1em;
+        }
+        table { margin-bottom: 2em; }
+        td.no-data { text-align: center; }
+        td.currency { text-align: right; }
+        figure { margin: 0; }
+        figcaption { color: #999; font-size: 90%; text-align: center; }
+        cite { font-style: oblique; }
+        div.row { margin-bottom: 2em; margin-top: 2em; }
+    </style>
+    {% block css %}{% endblock %}
+</head>
+<body>
+    <div class="container">
+        <header role="banner" class="topbar">
+            <div class="topbar-inner">
+                <div class="container">
+                    <h1><a href="/" class="brand">Open Gaithersburg</a></h1>
+                    <ul class="nav">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/elections">Elections</a></li>
+                        <li><a href="/about">About</a></li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <div role="main">
+            {% block content %}{% endblock %}
+        </div>
+        <footer>
+            <p>Open Gaithersburg is open source! <a href="https://github.com/jcarbaugh/opengaithersburg">Contribute on GitHub.</a></p>
+            <p>Data provided by the <a href="http://campaignfinancing.gaithersburgmd.gov/">City of Gaithersburg</a>.</p>
+        </footer>
+    </div>
+    {% block js %}{% endblock %}
+</body>
+</html>
