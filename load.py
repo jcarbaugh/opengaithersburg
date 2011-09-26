@@ -4,6 +4,7 @@ import os
 import requests
 import sqlite3
 
+from opengaithersburg.core import CANDIDATES
 from saucebrush import emitters, sources, filters, run_recipe, Recipe
 
 PROJECT_ROOT = os.path.abspath(os.path.dirname(__file__))
@@ -26,14 +27,6 @@ STATE_ABBRS = {
     'WV': 'West Virginia', 'WY': 'Wyoming'
 }
 STATE_NAMES = dict((v, k) for k, v in STATE_ABBRS.iteritems())
-
-CANDIDATES = {
-    'cathy-drzyzgula': {'id': 37, 'name': 'Cathy Drzyzgula'},
-    'jud-ashman': {'id': 36, 'name': 'Jud Ashman'},
-    'paula-ross': {'id': 38, 'name': 'Paula Ross'},
-    'ryan-spiegel': {'id': 34, 'name': 'Ryan Spiegel'},
-    'thomas-s-rowse': {'id': 35, 'name': 'Thomas S. Rowse'},
-}
 
 AMOUNT_FIELDS = ('cash_amount','check_amount','credit_amount','inkind_amount')
 

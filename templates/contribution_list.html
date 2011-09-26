@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 
 {% block content %}
-    {% if query %}
-        <h3>Search for <em>{{ query|safe }}</em></h3>
+    {% if criteria %}
+        <h3>Search for <em>{{ " and ".join(criteria) }}</em></h3>
     {% else %}
         <h3>All contributions</h3>
     {% endif %}

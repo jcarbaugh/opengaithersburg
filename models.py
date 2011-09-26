@@ -56,6 +56,10 @@ class Candidate(Model):
     def __str__(self):
         return u"%s" % self.name
 
+    def total(self):
+        stmt = """SELECT SUM(amount) AS total FROM contributions WHERE candidate_id = ?"""
+        return [r for r in g.db.execute(stmt, (self.id,))][0][0] or 0.0
+
     def timeline(self, start_date=None):
 
         end_date = datetime.date.today()
