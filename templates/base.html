@@ -2,8 +2,19 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <meta name="description" value="An experiment in open public data published by the city of Gaithersburg, MD.">
+    <meta name="author" value="Jeremy Carbaugh">
     <title>{% block title %}Open Gaithersburg{% endblock %}</title>
     <link rel="stylesheet" href="/static/bootstrap.min.css">
+    {% block og %}
+        <meta property="og:title" content="Open Gaithersburg">
+        <meta property="og:url" content="http://opengaithersburg.org">
+        <meta property="og:description"
+              content="An experiment in open public data published by the city of Gaithersburg, MD."/>
+    {% endblock %}
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Open Gaithersburg">
+    <meta property="fb:admins" content="7812952">
     <style>
         header[role=banner] h1 { display: inline; }
         header[role=banner] h1 a { text-decoration: none; }

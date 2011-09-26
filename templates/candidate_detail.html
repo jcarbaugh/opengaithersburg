@@ -1,5 +1,12 @@
 {% extends "base.html" %}
 
+{% block og %}
+    <meta property="og:title" content="{{ candidate.name }} - 2011 City Council Campaign">
+    <meta property="og:url" content="http://opengaithersburg.org/elections/{{ year }}/{{ seat }}/{{ candidate.slug }}">
+    <meta property="og:description"
+          content="Overview of the 2011 Gaithersburg City Council campaign of {{ candidate.name }}."/>
+{% endblock %}
+
 {% block js %}
     <script src="https://www.google.com/jsapi"></script>
     <script>

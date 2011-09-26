@@ -90,6 +90,7 @@ def candidate_detail(year, seat, slug):
     contribution_types = c.contribution_types()
     return render_template('candidate_detail.html',
                            year=year,
+                           seat=seat,
                            candidate=c,
                            total=c.total(),
                            contributors=contributors,
