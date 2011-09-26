@@ -10,6 +10,9 @@
         .topbar-inner {
             background-color: #242;
             background: -webkit-linear-gradient(top, #252, #363);
+            background:    -moz-linear-gradient(top, #252, #363);
+            background:      -o-linear-gradient(top, #252, #363);
+            background:         linear-gradient(top, #252, #363);
         }
         div[role=main] { margin-top: 5em; }
         .table-description {
@@ -24,6 +27,31 @@
         figcaption { color: #999; font-size: 90%; text-align: center; }
         cite { font-style: oblique; }
         div.row { margin-bottom: 2em; margin-top: 2em; }
+        a.feature-link {
+            display: block;
+            font-size: 140%;
+            font-style: oblique;
+            margin: 1em 0;
+        }
+        div.splash {
+            background-color: #f3f3ff;
+            border: 1px solid #ddd;
+            padding: 2em 1em 1em 1em;
+            -webkit-border-radius: 5px;
+               -moz-border-radius: 5px;
+                -ms-border-radius: 5px;
+                 -o-border-radius: 5px;
+                    border-radius: 5px;
+            -webkit-box-shadow: 0 3px 4px #eee;
+               -moz-box-shadow: 0 3px 4px #eee;
+                -ms-box-shadow: 0 3px 4px #eee;
+                 -o-box-shadow: 0 3px 4px #eee;
+                    box-shadow: 0 3px 4px #eee;
+        }
+        div.splash p { font-size: 110%; line-height: 140%; }
+        a.feature-link:after {
+            content: " ⇒";
+        }
     </style>
     {% block css %}{% endblock %}
 </head>
