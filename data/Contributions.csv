@@ -1,134 +1,303 @@
 Campaign Name,Contributor Name,Address,City,State,Zip,Credit Amount,Check Amount,Cash Amount,Transaction Date,In-Kind Donation Type,In-Kind Donation Value,Aggregate To Date,Status
-Ryan Spiegel,Paypal,2211 North First Street, , CA ,San Jose,CA,95131,0.00,0.00,0.00,3/7/2011 12:00:00 AM,test deposit to set up account,0.18,0.18,
-Ryan Spiegel,Lawrence Duva,16400 Old Frederick Road,Mount Airy,MD,21771,250.00,0.00,0.00,3/29/2011 12:00:00 AM,,0.00,250.00,
-Ryan Spiegel,David Armillei,840 E. Green St., Unit 320,Pasadena,CA,91101,500.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,500.00,
-Ryan Spiegel,Kirill Reznik,18469 Stone Hollow Drive,Germantown,MD,20874,100.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,CreatiVerge Communications,9412 White Spring Way,Columbia,MD,21046,50.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Khalid Jones,2201 L St. NW #801,Washington,DC,20037,250.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,250.00,
-Ryan Spiegel,Scott Goldberg,7500 Woodmont Ave #203,Bethesda,MD,20814,0.00,50.00,0.00,5/5/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Gerald Farano,1419 North Nash St.,Arlington,VA,22209,0.00,300.00,0.00,5/9/2011 12:00:00 AM,,0.00,300.00,
-Ryan Spiegel,Friends of Rob Garagiola,PO Box 442,Germantown,MD,20875,0.00,250.00,0.00,5/18/2011 12:00:00 AM,,0.00,250.00,
-Ryan Spiegel,Jeremiah Frei-Pearson,25-90 35th St., Apt. 3D,Astoria,NY,11103,0.00,150.00,0.00,5/24/2011 12:00:00 AM,,0.00,150.00,
-Ryan Spiegel,Drury Bagwell,1334 E Capitol St. NE,Washington,DC,20003,0.00,50.00,0.00,6/1/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Nicholas Rogers,1260 Woodhill Ave.,Wayzata,MN,55391,100.00,0.00,0.00,6/2/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Matthew Kahn,70A Henry Street,San Francisco,CA,94114,100.00,0.00,0.00,6/7/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Herbert Bohnet,188 West Canton, Apt 1 ,Boston,MA,02116,0.00,150.00,0.00,6/8/2011 12:00:00 AM,,0.00,150.00,
-Ryan Spiegel,John Hsu,413 Council Dr., NE,Vienna,VA,22180,0.00,100.00,0.00,6/10/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Jim Chih-Kang Yu,1428 Camino Peral,Moraga,CA,94556,0.00,100.00,0.00,7/5/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Kael Reicin,12 Flameleaf Ct.,Gaithersburg,MD,20878,150.00,0.00,0.00,7/7/2011 12:00:00 AM,,0.00,150.00,
-Ryan Spiegel,Ryan Spiegel for City Council,203 Midsummer Drive,Gaithersburg,Maryland,20878,0.00,0.00,0.00,7/11/2011 12:00:00 AM,Prior campaign material,0.00,0.00,
-Ryan Spiegel,Vasilios Hristopoulos,353 Main St.,Gaithersburg,MD,20878,250.00,0.00,0.00,7/13/2011 12:00:00 AM,,0.00,250.00,
-Ryan Spiegel,Joshua Krutoy,9486 Virginia Center Blvd. #302,Vienna,VA,22181,100.00,0.00,0.00,7/15/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,David Freiman,62 Beacon Hill Ct.,Gaithersburg,MD,20878,100.00,0.00,0.00,7/15/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,David &amp; Roslyn Golden,7112 Pheasant Cross Dr.,Baltimore,MD,21209,0.00,250.00,0.00,7/17/2011 12:00:00 AM,,0.00,250.00,
-Ryan Spiegel,Friends of Eric Luedtke,14123 Aldora Cir.,Burtonsville,MD,20866,0.00,50.00,0.00,7/17/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Julie &amp; David Belgard,101 Canfield Hill Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Marc &amp; Jennifer Feinstein,132 Canfield Hill Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Deborah Hartten,940 Orchard Ridge Dr #200,Gaithersburg,MD,20878,0.00,50.00,0.00,7/17/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Elizabeth Gordon &amp; Richard McKeon,732 Clifftop Dr.,Gaithersburg,MD,20878,0.00,50.00,0.00,7/17/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Stephanie &amp; Brian Epstein,211 Argosy Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Syed Ali,12504 Degas Court,North Potomac,MD,20878,100.00,0.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Paul Fronstin,102 Massbury St.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/18/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,David &amp; Lilah Bennaim,202 Midsummer Dr.,Gaithersburg,MD,20878,0.00,200.00,0.00,7/19/2011 12:00:00 AM,,0.00,200.00,
-Ryan Spiegel,Gertrude &quot;Dolly&quot; Kildee,212 Summit Hall Rd.,Gaithersburg,MD,20877,0.00,50.00,0.00,7/20/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Rebecca &amp; Aaron Kotok,939 Featherstone St.,Gaithersburg,MD,20878,0.00,50.00,0.00,7/20/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Friends of Rob Garagiola,PO Box 442,Germantown,MD,20875,0.00,100.00,0.00,7/23/2011 12:00:00 AM,,0.00,350.00,
-Ryan Spiegel,Eric &amp; Vinita Gotting,208 Watkins Circle,Rockville,MD,20850,0.00,100.00,0.00,8/1/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Darren Popkin,18534 Meadowland Terrace,Olney,MD,20832,118.00,0.00,0.00,8/19/2011 12:00:00 AM,,0.00,118.00,
-Ryan Spiegel,Technology Patents LLC,PO Box 61220,Potomac,MD,20859,0.00,500.00,0.00,8/19/2011 12:00:00 AM,,0.00,500.00,
-Ryan Spiegel,Patents Innovations, LLC,PO Box 1766,Venice,FL,34284,0.00,500.00,0.00,8/19/2011 12:00:00 AM,,0.00,500.00,
-Ryan Spiegel,It&#39;s Elementary, LLC,10771 Brewer House Rd.,Rockville,MD,20852,0.00,100.00,0.00,8/23/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Rudy Fleischmann,3301 Northbrook Rd.,Baltimore,MD,21208,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Jeffrey Slavin,5706 Warwick Place,Chevy Chase,MD,20815,100.00,0.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,
-Ryan Spiegel,Tara and Jeff Lang,827 Ivy League Lane,Rockville,MD,20850,0.00,50.00,0.00,9/2/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Daniel Moskowitz,6 Waycross Ct.,Kensington,MD,20895,36.00,0.00,0.00,9/4/2011 12:00:00 AM,,0.00,36.00,
-Ryan Spiegel,Arlene Fleischmann,3301 Northbrook Rd.,Baltimore,MD,21208,0.00,200.00,0.00,9/5/2011 12:00:00 AM,,0.00,200.00,
-Ryan Spiegel,Ryan Spiegel,203 Midsummer Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,9/6/2011 12:00:00 AM,paper, printer ink, and website hosting,100.00,100.00,
-Ryan Spiegel,Rachael Spiegel,203 Midsummer Drive,Gaithersburg,Maryland,20878,0.00,0.00,0.00,9/13/2011 12:00:00 AM,photography,500.00,500.00,
-Ryan Spiegel,LaNora Williams,1500 Arlington Road,Arlington,VA,22209,50.00,0.00,0.00,9/17/2011 12:00:00 AM,,0.00,50.00,
-Ryan Spiegel,Ari Stern,11295 Raging Brook Dr.,Bowie,MD,20720,18.00,0.00,0.00,9/17/2011 12:00:00 AM,,0.00,18.00,
-Ryan Spiegel,Meredith Weisel,11767 Owens Glen Way,North Potomac,MD,20878,36.00,0.00,0.00,9/18/2011 12:00:00 AM,,0.00,36.00,
-Ryan Spiegel,Jeanne &amp; Jeff Ellinport,319 Argosy Drive,Gaithersburg,MD,20878,0.00,108.00,0.00,9/18/2011 12:00:00 AM,,0.00,108.00,
-Thomas S. Rowse,Roger Rowse,16043 Comprint Circle,Gaithersburg,MD,20877,0.00,0.00,0.00,4/1/2011 12:00:00 AM,Printing Supplies,25.00,25.00,
-Thomas S. Rowse,David Hunsberger,7 Pickering Court,Germantown,MD,20874,0.00,0.00,0.00,4/1/2011 12:00:00 AM,Website Development and Maintenance,500.00,500.00,
-Thomas S. Rowse,Flora C. Rowse,12086 Windsor Moss,Ellicott City,MD,21042,0.00,250.00,0.00,4/1/2011 12:00:00 AM,,0.00,250.00,
-Thomas S. Rowse,Mike Richman,1129 Halesworth Drive,Potomac,MD,20854,10.00,0.00,0.00,5/23/2011 12:00:00 AM,,0.00,10.00,
-Thomas S. Rowse,Thomas Brown,10519 Bent Tree Drive,Fredericksburg,VA,22407,25.00,0.00,0.00,7/18/2011 12:00:00 AM,,0.00,25.00,
-Thomas S. Rowse,60i Media Productions LLC,725 Harrington Road,Rockville,MD,20852,0.00,0.00,0.00,8/15/2011 12:00:00 AM,Video Development,500.00,500.00,
-Thomas S. Rowse,Sam Nicco-Annan,18708 Blue Violet Lane,Gaithersburg,MD,20879,0.00,0.00,0.00,8/21/2011 12:00:00 AM,DJ Services,200.00,200.00,
-Thomas S. Rowse,Yale Weisberg,804 Amber Tree Court #203,Gaithersburg,MD,20878,0.00,50.00,0.00,8/21/2011 12:00:00 AM,,0.00,50.00,
-Thomas S. Rowse,Lee Foo,424 N. Summit Ave #004,Gaithersburg,MD ,20877,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,
-Thomas S. Rowse,Chris Frye,213 Cedar Ave,Gaithersburg,MD,20877,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,
-Thomas S. Rowse,Rebecca Frye,213 Cedar Ave,Gaithersburg,MD ,20877,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,
-Thomas S. Rowse,Joshua Buchet,12456 Walnut Cove Circle,Germantown,MD,20874,0.00,100.00,0.00,8/21/2011 12:00:00 AM,,0.00,100.00,
-Thomas S. Rowse,Richard Fechs, Jr,315 West Side Drive,Gaithersburg,MD,20878,0.00,0.00,20.00,8/21/2011 12:00:00 AM,,0.00,20.00,
-Thomas S. Rowse,Morey Edwards,3 Spring Street,Gaithersburg,MD,20877,0.00,200.00,0.00,8/21/2011 12:00:00 AM,,0.00,200.00,
-Thomas S. Rowse,Mike Hanusin,112 E. Deer Park Drive,Gaithersburg,MD,20877,0.00,75.00,0.00,8/21/2011 12:00:00 AM,,0.00,75.00,
-Thomas S. Rowse,Ted Christ,7805 Suthard Drive,Derwood,MD,20855,0.00,100.00,0.00,8/21/2011 12:00:00 AM,,0.00,100.00,
-Thomas S. Rowse,Derek Miles Fehr,1313 Grandin Ave,Rockville,MD,20851,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,
-Thomas S. Rowse,Timothy Faulkner,19135 Partridge Wood Drive,Germantown,MD,20874,0.00,200.00,0.00,8/21/2011 12:00:00 AM,,0.00,200.00,
-Thomas S. Rowse,Fraser Signs,110 Frederick Road #E,Rockville,MD,20850,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Van Re-Wrap and Tweaks,150.00,150.00,
-Thomas S. Rowse,JoAnn Schimke,734 Tiffant Court,Gaithersburg,MD,20878,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Postage,65.25,65.25,
-Thomas S. Rowse,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD ,20878,0.00,0.00,0.00,9/12/2011 12:00:00 AM,Postage,65.25,130.50,
-Thomas S. Rowse,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/13/2011 12:00:00 AM,Printing Supplies,7.42,137.92,
-Thomas S. Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,T-Shirts (79) from previous election,0.00,0.00,
-Thomas S. Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Signs (58) from last election,0.00,0.00,
-Thomas S. Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Van Wrap and Jeep Magnets from previous election,0.00,0.00,
-Jud Ashman,The Elegant Envelope,18554 Office Park Drive,Gaithersburg,MD,20886,0.00,0.00,0.00,8/8/2011 12:00:00 AM,Website design services for campaign web site,250.00,250.00,
-Jud Ashman,Denise McQuighan,924 Pointer Ridge Road,Gaithersburg,MD,20878,0.00,200.00,0.00,8/9/2011 12:00:00 AM,,0.00,200.00,
-Jud Ashman,K. Mark O&#39;Connor,207 Sportsman Way,Gaithersburg,MD,20878,50.00,0.00,0.00,8/23/2011 12:00:00 AM,,0.00,50.00,
-Jud Ashman,Robert Murphy,1219 Main Street,Gaithersburg,MD,20878,0.00,100.00,0.00,8/27/2011 12:00:00 AM,,0.00,100.00,
-Jud Ashman,Rebecca Foote Meloan,311 Tschiffely Square Road,Gaithersburg,MD,20878,0.00,50.00,0.00,8/27/2011 12:00:00 AM,,0.00,50.00,
-Jud Ashman,Bonnie Lawhorn,410 Bostwick Lane,Gaithersburg,MD,20878,0.00,25.00,0.00,8/27/2011 12:00:00 AM,,0.00,25.00,
-Jud Ashman,Gary M. Blau,14 Sebastiani Boulevard,Gaithersburg,MD,20878,0.00,25.00,0.00,8/27/2011 12:00:00 AM,,0.00,25.00,
-Jud Ashman,Robert Drzyzgula,16 Walker Avenue,Gaithersburg,MD,20878,0.00,0.00,0.00,8/30/2011 12:00:00 AM,Services and materials to create and print 5 signs,25.00,25.00,
-Jud Ashman,Marianne Mardirossian,11940 River Road,Potomac,MD,20854,0.00,500.00,0.00,9/3/2011 12:00:00 AM,,0.00,500.00,
-Jud Ashman,Stephen Ashman,6005 Roseland Drive,Rockville,MD,20852,0.00,200.00,0.00,9/4/2011 12:00:00 AM,,0.00,200.00,
-Jud Ashman,Mary Jo LaFrance,105 Chestnut Street,Gaithersburg,MD,20877,0.00,25.00,0.00,9/4/2011 12:00:00 AM,,0.00,25.00,
-Jud Ashman,Maureen McNamara,12128 Hidden Brook Terrace,North Potomac,MD,20878,50.00,0.00,0.00,9/5/2011 12:00:00 AM,,0.00,50.00,
-Jud Ashman,Joni Adams Sesma,710 Hope Lane,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,
-Jud Ashman,Michael Sesma,710 Hope Lane,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,
-Jud Ashman,Thomas Marchessault,432 Inspiration Lane,Gaithersburg,MD,20878,25.00,0.00,0.00,9/14/2011 12:00:00 AM,,0.00,25.00,
-Jud Ashman,Brian R. Lang,5210 Edgemoor Lane,Bethesda,MD,20814,0.00,500.00,0.00,9/16/2011 12:00:00 AM,,0.00,500.00,
-Jud Ashman,Paul Bartholomew,17 Lancashire Drive,Eastampton,NJ,08060,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Domain name registrations for two domains through,38.08,38.08,
-Jud Ashman,Paul Bartholomew,17 Lancashire Drive,Eastampton,NJ,08060,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Website hosting for two domains through 2012,68.40,106.48,
-Cathy Drzyzgula,Bob Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,4/25/2011 12:00:00 AM,Domain registration,8.57,8.57,
-Cathy Drzyzgula,Cathy D for Council,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/15/2011 12:00:00 AM,1 ream  of paper left from previous campaign,0.00,0.00,
-Cathy Drzyzgula,Jerunazagabr LLC,P.O. Box 61220,Potomac,MD ,20859-1220,0.00,500.00,0.00,8/26/2011 12:00:00 AM,,0.00,500.00,
-Cathy Drzyzgula,Technology Patents LLC,P.O. Box 61220,Potomac,MD,20859-1220,0.00,500.00,0.00,8/26/2011 12:00:00 AM,,0.00,500.00,
-Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/27/2011 12:00:00 AM,photography,150.00,150.00,
-Cathy Drzyzgula,Bob Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/30/2011 12:00:00 AM,Poster printing for campaign,50.00,58.57,
-Cathy Drzyzgula,Denise McQuighan,924 Pointer Ridge Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,8/30/2011 12:00:00 AM,,0.00,100.00,
-Cathy Drzyzgula,Mary Jo LaFrance,105 Chestnut St.,Gaithersburg,MD,20877,0.00,25.00,0.00,8/30/2011 12:00:00 AM,,0.00,25.00,
-Cathy Drzyzgula,Elizabeth Witzgall,20 Walker Ave.,Gaithersburg,MD ,20877,0.00,30.00,0.00,8/30/2011 12:00:00 AM,,0.00,30.00,
-Cathy Drzyzgula,Bob Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/30/2011 12:00:00 AM,Poster printing for campaign 50%,25.00,33.57,
-Cathy Drzyzgula,Ed Richley,14 Walker Ave.,Gaithersburg,MD,20877,0.00,100.00,0.00,9/3/2011 12:00:00 AM,,0.00,100.00,
-Cathy Drzyzgula,Dorothy Powell,8 Walker Ave.,Gaithersburg,MD,20877,0.00,25.00,0.00,9/12/2011 12:00:00 AM,,0.00,25.00,
-Cathy Drzyzgula,Judy Christensen,6 Walker Ave.,Gaithersburg,Md ,20877,0.00,100.00,0.00,9/12/2011 12:00:00 AM,,0.00,100.00,
-Cathy Drzyzgula,Ellen Stanley,21 Walker Ave.,Gaithersburg,MD,20877,0.00,75.00,0.00,9/13/2011 12:00:00 AM,,0.00,75.00,
-Cathy Drzyzgula,Mike Sesma,710 Hope La,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,
-Cathy Drzyzgula,Joni Sesma,710 Hope La,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,
-Cathy Drzyzgula,Brian Lang,5210 Edgemoor La.,Bethesda,MD,20814,0.00,500.00,0.00,9/15/2011 12:00:00 AM,,0.00,500.00,
-Cathy Drzyzgula,Paul Bartholomew,17 Lancashire Dr.,Easthampton,NJ,08060,0.00,0.00,0.00,9/18/2011 12:00:00 AM,website hosting,  estimated value,68.40,68.40,
-Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Facebook Advertising ,53.45,203.45,
-Paula Ross,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,100.00,0.00,8/17/2011 12:00:00 AM,,0.00,100.00,
-Paula Ross,Peter Kenah,367 Kentlands Blvd.,Gaithersburg,MD,20878,0.00,35.00,0.00,8/24/2011 12:00:00 AM,,0.00,35.00,
-Paula Ross,Jennifer Koch,110 Briscoe St,Gaithersburg,MD,20878,0.00,100.00,0.00,8/24/2011 12:00:00 AM,,0.00,100.00,
-Paula Ross,Dr. Dolores Zumbado,321 Main Street,Gaithersburg,MD,20878,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,
-Paula Ross,Amanda Beam,111 Timberbrook Lane #204,Gaithersburg,MD,20878,25.00,0.00,0.00,8/25/2011 12:00:00 AM,,0.00,25.00,
-Paula Ross,Keystone Real Estate Investments LLC,PO Box 83406,Gaithersburg,MD,20883,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,
-Paula Ross,Richard Koch,103 Leekes Lot Way,Gaithersburg,MD,20878,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,
-Paula Ross,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Stamps,65.25,65.25,
-Paula Ross,A W Promotionals,14520 Whirlaway Lane,Gaithersburg,MD,20878,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Run With Paula T-Shirts,100.20,100.20,
-Paula Ross,Potomac Pizza,625 Center Point Way,Gaithersburg,MD,20878,0.00,0.00,0.00,9/7/2011 12:00:00 AM,Cupcakes &amp; Coffee,60.00,60.00,
-Paula Ross,Shana Orbach,16108 Howard Landing Dr,Gaithersburg,MD,20878,300.00,0.00,0.00,9/7/2011 12:00:00 AM,,0.00,300.00,
-Paula Ross,Kevin Rowe,17B Firstfield Rd Ste 206,Gaithersburg,MD,20878,100.00,0.00,0.00,9/7/2011 12:00:00 AM,,0.00,100.00,
-Paula Ross,Jamey Schrier,4701 Randolph Road,Rockville,MD,20852,75.00,0.00,0.00,9/8/2011 12:00:00 AM,,0.00,75.00,
-Paula Ross,The Great Zucchini C/O Eric Knaus,PO Box 6230,Washington,DC,20015,0.00,0.00,0.00,9/8/2011 12:00:00 AM,Entertainment,350.00,350.00,
-Paula Ross,Joyce Whitman,648 Chestertown Street,Gaithersburg,MD,20878,0.00,0.00,5.00,9/8/2011 12:00:00 AM,,0.00,5.00,
-Paula Ross,Kathleen &amp; Christopher Farrell,1010 Main St,Gaithersburg,MD,20878,0.00,40.00,0.00,9/8/2011 12:00:00 AM,,0.00,40.00,
-Paula Ross,Denise &amp; Kelly Bossard,306 Chestnut Hill Street,Gaithersburg,MD,20878,0.00,25.00,0.00,9/8/2011 12:00:00 AM,,0.00,25.00,
-Paula Ross,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/13/2011 12:00:00 AM,Stamps &amp; Card Stock,72.67,137.92,
-Paula Ross,Dr. Alan Ross,113 Closter Plaza,Closter,NJ,07624,0.00,300.00,0.00,9/14/2011 12:00:00 AM,,0.00,300.00,
-Paula Ross,Andra &amp; Jordan Abramson,706 Market Street East,Gaithersburg,MD,20878,0.00,50.00,0.00,9/15/2011 12:00:00 AM,,0.00,50.00,
-Paula Ross,Ailene Renzi,320 Thaxton St,Gaithersburg,MD,20878,65.00,0.00,0.00,9/15/2011 12:00:00 AM,,0.00,65.00,
+Ryan Spiegel,Paypal,2211 North First Street, , CA ,San Jose,CA,95131,0.00,0.00,0.00,3/7/2011 12:00:00 AM,test deposit to set up account,0.18,0.18,Accepted
+Ryan Spiegel,Lawrence Duva,16400 Old Frederick Road,Mount Airy,MD,21771,250.00,0.00,0.00,3/29/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,David Armillei,840 E. Green St., Unit 320,Pasadena,CA,91101,500.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,500.00,Accepted
+Ryan Spiegel,Kirill Reznik,18469 Stone Hollow Drive,Germantown,MD,20874,100.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,CreatiVerge Communications,9412 White Spring Way,Columbia,MD,21046,50.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Khalid Jones,2201 L St. NW #801,Washington,DC,20037,250.00,0.00,0.00,5/3/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,Scott Goldberg,7500 Woodmont Ave #203,Bethesda,MD,20814,0.00,50.00,0.00,5/5/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Gerald Farano,1419 North Nash St.,Arlington,VA,22209,0.00,300.00,0.00,5/9/2011 12:00:00 AM,,0.00,300.00,Accepted
+Ryan Spiegel,Friends of Rob Garagiola,PO Box 442,Germantown,MD,20875,0.00,250.00,0.00,5/18/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,Jeremiah Frei-Pearson,25-90 35th St., Apt. 3D,Astoria,NY,11103,0.00,150.00,0.00,5/24/2011 12:00:00 AM,,0.00,150.00,Accepted
+Ryan Spiegel,Drury Bagwell,1334 E Capitol St. NE,Washington,DC,20003,0.00,50.00,0.00,6/1/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Nicholas Rogers,1260 Woodhill Ave.,Wayzata,MN,55391,100.00,0.00,0.00,6/2/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Matthew Kahn,70A Henry Street,San Francisco,CA,94114,100.00,0.00,0.00,6/7/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Herbert Bohnet,188 West Canton, Apt 1 ,Boston,MA,02116,0.00,150.00,0.00,6/8/2011 12:00:00 AM,,0.00,150.00,Accepted
+Ryan Spiegel,John Hsu,413 Council Dr., NE,Vienna,VA,22180,0.00,100.00,0.00,6/10/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Jim Chih-Kang Yu,1428 Camino Peral,Moraga,CA,94556,0.00,100.00,0.00,7/5/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Kael Reicin,12 Flameleaf Ct.,Gaithersburg,MD,20878,150.00,0.00,0.00,7/7/2011 12:00:00 AM,,0.00,150.00,Accepted
+Ryan Spiegel,Ryan Spiegel for City Council,203 Midsummer Drive,Gaithersburg,Maryland,20878,0.00,0.00,0.00,7/11/2011 12:00:00 AM,Prior campaign material,0.00,0.00,Accepted
+Ryan Spiegel,Vasilios Hristopoulos,353 Main St.,Gaithersburg,MD,20878,250.00,0.00,0.00,7/13/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,Joshua Krutoy,9486 Virginia Center Blvd. #302,Vienna,VA,22181,100.00,0.00,0.00,7/15/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,David Freiman,62 Beacon Hill Ct.,Gaithersburg,MD,20878,100.00,0.00,0.00,7/15/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,David &amp; Roslyn Golden,7112 Pheasant Cross Dr.,Baltimore,MD,21209,0.00,250.00,0.00,7/17/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,Friends of Eric Luedtke,14123 Aldora Cir.,Burtonsville,MD,20866,0.00,50.00,0.00,7/17/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Julie &amp; David Belgard,101 Canfield Hill Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Marc &amp; Jennifer Feinstein,132 Canfield Hill Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Deborah Hartten,940 Orchard Ridge Dr #200,Gaithersburg,MD,20878,0.00,50.00,0.00,7/17/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Elizabeth Gordon &amp; Richard McKeon,732 Clifftop Dr.,Gaithersburg,MD,20878,0.00,50.00,0.00,7/17/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Stephanie &amp; Brian Epstein,211 Argosy Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Syed Ali,12504 Degas Court,North Potomac,MD,20878,100.00,0.00,0.00,7/17/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Paul Fronstin,102 Massbury St.,Gaithersburg,MD,20878,0.00,100.00,0.00,7/18/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,David &amp; Lilah Bennaim,202 Midsummer Dr.,Gaithersburg,MD,20878,0.00,200.00,0.00,7/19/2011 12:00:00 AM,,0.00,200.00,Accepted
+Ryan Spiegel,Gertrude &quot;Dolly&quot; Kildee,212 Summit Hall Rd.,Gaithersburg,MD,20877,0.00,50.00,0.00,7/20/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Rebecca &amp; Aaron Kotok,939 Featherstone St.,Gaithersburg,MD,20878,0.00,50.00,0.00,7/20/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Friends of Rob Garagiola,PO Box 442,Germantown,MD,20875,0.00,100.00,0.00,7/23/2011 12:00:00 AM,,0.00,350.00,Accepted
+Ryan Spiegel,Eric &amp; Vinita Gotting,208 Watkins Circle,Rockville,MD,20850,0.00,100.00,0.00,8/1/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Darren Popkin,18534 Meadowland Terrace,Olney,MD,20832,118.00,0.00,0.00,8/19/2011 12:00:00 AM,,0.00,118.00,Accepted
+Ryan Spiegel,Technology Patents LLC,PO Box 61220,Potomac,MD,20859,0.00,500.00,0.00,8/19/2011 12:00:00 AM,,0.00,500.00,Accepted
+Ryan Spiegel,Patents Innovations, LLC,PO Box 1766,Venice,FL,34284,0.00,500.00,0.00,8/19/2011 12:00:00 AM,,0.00,500.00,Accepted
+Ryan Spiegel,It&#39;s Elementary, LLC,10771 Brewer House Rd.,Rockville,MD,20852,0.00,100.00,0.00,8/23/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Rudy Fleischmann,3301 Northbrook Rd.,Baltimore,MD,21208,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Jeffrey Slavin,5706 Warwick Place,Chevy Chase,MD,20815,100.00,0.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Ryan Spiegel,Tara and Jeff Lang,827 Ivy League Lane,Rockville,MD,20850,0.00,50.00,0.00,9/2/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Daniel Moskowitz,6 Waycross Ct.,Kensington,MD,20895,36.00,0.00,0.00,9/4/2011 12:00:00 AM,,0.00,36.00,Accepted
+Ryan Spiegel,Arlene Fleischmann,3301 Northbrook Rd.,Baltimore,MD,21208,0.00,200.00,0.00,9/5/2011 12:00:00 AM,,0.00,200.00,Accepted
+Ryan Spiegel,Ryan Spiegel,203 Midsummer Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,9/6/2011 12:00:00 AM,paper, printer ink, and website hosting,100.00,100.00,Accepted
+Ryan Spiegel,Rachael Spiegel,203 Midsummer Drive,Gaithersburg,Maryland,20878,0.00,0.00,0.00,9/13/2011 12:00:00 AM,photography,500.00,500.00,Accepted
+Ryan Spiegel,LaNora Williams,1500 Arlington Road,Arlington,VA,22209,50.00,0.00,0.00,9/17/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Ari Stern,11295 Raging Brook Dr.,Bowie,MD,20720,18.00,0.00,0.00,9/17/2011 12:00:00 AM,,0.00,18.00,Accepted
+Ryan Spiegel,Meredith Weisel,11767 Owens Glen Way,North Potomac,MD,20878,36.00,0.00,0.00,9/18/2011 12:00:00 AM,,0.00,36.00,Accepted
+Ryan Spiegel,Jeanne &amp; Jeff Ellinport,319 Argosy Drive,Gaithersburg,MD,20878,0.00,108.00,0.00,9/18/2011 12:00:00 AM,,0.00,108.00,Accepted
+Ryan Spiegel,Dr. Robert Spiegel, DDS,600 Reisterstown Rd # 501,Pikesville,MD,21208,0.00,500.00,0.00,9/25/2011 12:00:00 AM,,0.00,500.00,Accepted
+Ryan Spiegel,Paul Stankus,512 Saddle Ridge Ln,Rockville,MD,20850,30.00,0.00,0.00,9/26/2011 12:00:00 AM,,0.00,30.00,Accepted
+Ryan Spiegel,Lloyd Kaufman,405 Firehouse Lane,Gaithersburg,MD,20878,50.00,0.00,0.00,9/28/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,James M. Gingery,PO Box 4446,Rockville,MD,20849,0.00,250.00,0.00,10/5/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,Sara Gorfinkel,353 Winter Walk Dr,Gaithersburg ,MD,20878,50.00,0.00,0.00,10/6/2011 12:00:00 AM,,0.00,50.00,Accepted
+Ryan Spiegel,Steven &amp; Kelly Schorer,10701 Alloway Drive,Potomac,MD,20854,0.00,250.00,0.00,10/8/2011 12:00:00 AM,,0.00,250.00,Accepted
+Ryan Spiegel,David &amp; Susan Goldberg,421 Tschiffely Square Road,Gaithersburg,MD,20878,0.00,0.00,0.00,10/11/2011 12:00:00 AM,Food and supplies for meet-and-greet,38.07,38.07,Accepted
+Ryan Spiegel,Sidney Katz,811 Pointer Ridge Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Town Courier ad,126.67,126.67,Accepted
+Ryan Spiegel,Cathy Drzyzgula,16 Walker Ave,Gaithersburg,MD,20877,0.00,0.00,0.00,10/16/2011 12:00:00 AM,paper for dear neighbor letter,2.88,2.88,Accepted
+Ryan Spiegel,Cathy D for Council,16 Walker Ave,Gaithersburg,MD,20877,0.00,0.00,0.00,10/16/2011 12:00:00 AM,Ink for Dear Neighbor letter,0.99,0.99,Accepted
+Ryan Spiegel,The Ashman Campaign,46 Napa Valley Rd,Gaithersburg,MD,20878,0.00,0.00,0.00,10/16/2011 12:00:00 AM,Ink for Dear Neighbor letter,0.99,0.99,Accepted
+Ryan Spiegel,Jeanne &amp; Jeff Ellinport,319 Argosy Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,10/18/2011 12:00:00 AM,Food and supplies for meet-and-greet,8.33,116.33,Accepted
+Ryan Spiegel,David Goldberg,421 Tschiffely Square Road,Gaithersburg,MD,20878,250.00,0.00,0.00,10/19/2011 12:00:00 AM,,0.00,288.07,Accepted
+Ryan Spiegel,Greg &amp; Linda Gore,60 Oak Shade Road,Gaithersburg,MD,20878,0.00,66.67,0.00,10/20/2011 12:00:00 AM,,0.00,66.67,Accepted
+Ryan Spiegel,Ryan S. Spiegel,203 Midsummer Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,10/24/2011 12:00:00 AM,paper and ink for dear neighbor letter,1.00,101.00,
+Ryan Spiegel,Barve Reelection Committee,1688 E. Gude Dr. #202,Rockville,MD,20850,0.00,100.00,0.00,10/25/2011 12:00:00 AM,,0.00,100.00,
+Ryan Spiegel,Josh Bokee,2409 Huntwood Court,Frederick,MD,21702,50.00,0.00,0.00,10/26/2011 12:00:00 AM,,0.00,50.00,
+Ryan Spiegel,Richard Arkin,121 Selby Street,Gaithersburg,MD,20878,20.00,0.00,0.00,11/7/2011 12:00:00 AM,,0.00,20.00,
+Ryan Spiegel,Michael Sesma,710 Hope Lane,Gaithersburg,MD,20878,0.00,0.00,0.00,11/7/2011 12:00:00 AM,costs for Dear Neighbor letter,13.64,13.64,
+Ryan Spiegel,Danielle Winborne,137 Apple Blossom Way,Gaithersburg,MD,20878,0.00,0.00,0.00,11/7/2011 12:00:00 AM,costs for Dear Neighbor letter,75.00,75.00,
+Ryan Spiegel,Mike Aubrey,726 Turtle Pond Ln,Gaithersburg,MD,20878,0.00,0.00,0.00,11/8/2011 12:00:00 AM,Costs of Victory Party at 44,500.00,500.00,
+Ryan Spiegel,Elaine Koch,103 Leekes Lot Way,Gaithersburg,MD,20878,0.00,0.00,0.00,11/8/2011 12:00:00 AM,Costs of Victory Party at 44,279.11,279.11,
+Ryan Spiegel,Regina Fendler,11801 Saddlerock Rd,Silver Spring,MD,20902,0.00,200.00,0.00,12/11/2011 12:00:00 AM,,0.00,200.00,
+Tom Rowse,Roger Rowse,16043 Comprint Circle,Gaithersburg,MD,20877,0.00,0.00,0.00,4/1/2011 12:00:00 AM,Printing Supplies,25.00,25.00,Accepted
+Tom Rowse,David Hunsberger,7 Pickering Court,Germantown,MD,20874,0.00,0.00,0.00,4/1/2011 12:00:00 AM,Website Development and Maintenance,500.00,500.00,Accepted
+Tom Rowse,Flora C. Rowse,12086 Windsor Moss,Ellicott City,MD,21042,0.00,250.00,0.00,4/1/2011 12:00:00 AM,,0.00,250.00,Accepted
+Tom Rowse,Mike Richman,1129 Halesworth Drive,Potomac,MD,20854,10.00,0.00,0.00,5/23/2011 12:00:00 AM,,0.00,10.00,Accepted
+Tom Rowse,Thomas Brown,10519 Bent Tree Drive,Fredericksburg,VA,22407,25.00,0.00,0.00,7/18/2011 12:00:00 AM,,0.00,25.00,Accepted
+Tom Rowse,60i Media Productions LLC,725 Harrington Road,Rockville,MD,20852,0.00,0.00,0.00,8/15/2011 12:00:00 AM,Video Development,500.00,500.00,Accepted
+Tom Rowse,Sam Nicco-Annan,18708 Blue Violet Lane,Gaithersburg,MD,20879,0.00,0.00,0.00,8/21/2011 12:00:00 AM,DJ Services,200.00,200.00,Accepted
+Tom Rowse,Yale Weisberg,804 Amber Tree Court #203,Gaithersburg,MD,20878,0.00,50.00,0.00,8/21/2011 12:00:00 AM,,0.00,50.00,Accepted
+Tom Rowse,Lee Foo,424 N. Summit Ave #004,Gaithersburg,MD ,20877,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,Accepted
+Tom Rowse,Chris Frye,213 Cedar Ave,Gaithersburg,MD,20877,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,Accepted
+Tom Rowse,Rebecca Frye,213 Cedar Ave,Gaithersburg,MD ,20877,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,Accepted
+Tom Rowse,Joshua Buchet,12456 Walnut Cove Circle,Germantown,MD,20874,0.00,100.00,0.00,8/21/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Richard Fechs, Jr,315 West Side Drive,Gaithersburg,MD,20878,0.00,0.00,20.00,8/21/2011 12:00:00 AM,,0.00,20.00,Accepted
+Tom Rowse,Morey Edwards,3 Spring Street,Gaithersburg,MD,20877,0.00,200.00,0.00,8/21/2011 12:00:00 AM,,0.00,200.00,Accepted
+Tom Rowse,Mike Hanusin,112 E. Deer Park Drive,Gaithersburg,MD,20877,0.00,75.00,0.00,8/21/2011 12:00:00 AM,,0.00,75.00,Accepted
+Tom Rowse,Ted Christ,7805 Suthard Drive,Derwood,MD,20855,0.00,100.00,0.00,8/21/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Derek Miles Fehr,1313 Grandin Ave,Rockville,MD,20851,0.00,0.00,25.00,8/21/2011 12:00:00 AM,,0.00,25.00,Accepted
+Tom Rowse,Timothy Faulkner,19135 Partridge Wood Drive,Germantown,MD,20874,0.00,200.00,0.00,8/21/2011 12:00:00 AM,,0.00,200.00,Accepted
+Tom Rowse,Fraser Signs,110 Frederick Road #E,Rockville,MD,20850,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Van Re-Wrap and Tweaks,150.00,150.00,Accepted
+Tom Rowse,JoAnn Schimke,734 Tiffant Court,Gaithersburg,MD,20878,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Postage,65.25,65.25,Accepted
+Tom Rowse,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD ,20878,0.00,0.00,0.00,9/12/2011 12:00:00 AM,Postage,65.25,130.50,Accepted
+Tom Rowse,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/13/2011 12:00:00 AM,Printing Supplies,7.42,137.92,Accepted
+Tom Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,T-Shirts (79) from previous election,0.00,0.00,Accepted
+Tom Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Signs (58) from last election,0.00,0.00,Accepted
+Tom Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Van Wrap and Jeep Magnets from previous election,0.00,0.00,Accepted
+Tom Rowse,Robert J. Wilson, Jr.,9 De Sellum Ave,Gaithersburg,MD,20877,0.00,100.00,0.00,9/21/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Richard Koch,312 Tschiffely Square Road,Gaithersburg,MD,20878,0.00,100.00,0.00,9/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,James H. Hammond, Jr.,121 Treehaven Street,Gaithersburg,MD,20878,0.00,100.00,0.00,9/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Wilson L. Faris, Jr,711 Hope Lane,Gaithersburg,MD,20878,0.00,50.00,0.00,9/25/2011 12:00:00 AM,,0.00,50.00,Accepted
+Tom Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,50.00,0.00,9/25/2011 12:00:00 AM,,0.00,50.00,Accepted
+Tom Rowse,Henry Marraffa,12 Keystone Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,9/25/2011 12:00:00 AM,Meet and greet supplies,115.09,115.09,Accepted
+Tom Rowse,Jo Ann Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/25/2011 12:00:00 AM,Meet &amp; greet supplies,18.62,156.54,Accepted
+Tom Rowse,Henry Marraffa,12 Keystone Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,9/27/2011 12:00:00 AM,Town Courier Ad,70.00,185.09,Accepted
+Tom Rowse,Jo Ann Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/27/2011 12:00:00 AM,Town Courier Ad,70.00,226.54,Accepted
+Tom Rowse,Gary A. Young,609 Lake Varuna Drive,Gaithersburg,MD,20878,0.00,50.00,0.00,9/27/2011 12:00:00 AM,,0.00,50.00,Accepted
+Tom Rowse,Eileen Cavanagh,13305 Cloverbrooke Drive,Rockville,MD,20854,100.00,0.00,0.00,9/30/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Gregory Ossont,PO Box 83001,Gaithersburg,MD,20883,250.00,0.00,0.00,9/30/2011 12:00:00 AM,,0.00,250.00,Accepted
+Tom Rowse,Francis Weber,616 Wickshire Cir,Lititz,PA,17543,25.00,0.00,0.00,10/3/2011 12:00:00 AM,,0.00,25.00,Accepted
+Tom Rowse,Edward Mastal,303 Summit Hall Rd,Gaithersburg,MD,20877,35.00,0.00,0.00,10/4/2011 12:00:00 AM,,0.00,35.00,Accepted
+Tom Rowse,Patricia Lawrence,762 Tiffany Dr,Gaithersburg,MD,20878,100.00,0.00,0.00,10/5/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Robert Paul Schimke,734 Tiffany Ct,Gaithersburg,MD,20878,0.00,0.00,0.00,10/5/2011 12:00:00 AM,Advertising,50.00,50.00,Accepted
+Tom Rowse,Timothy Kober,4520 Tournament Dr,Raliegh,NC,27612,10.00,0.00,0.00,10/7/2011 12:00:00 AM,,0.00,10.00,Accepted
+Tom Rowse,Fraser Signs,110 Frederick Rd #E,Rockville,MD,20850,0.00,0.00,0.00,10/11/2011 12:00:00 AM,Signs,350.00,500.00,Accepted
+Tom Rowse,Charles Carp,8605 Carlynn Dr,Bethesda,MD,20817,10.00,0.00,0.00,10/14/2011 12:00:00 AM,,0.00,10.00,Accepted
+Tom Rowse,Katherine A. Gordon,141 Thurgood St,Gaithersburg,MD,20878,0.00,30.00,0.00,10/14/2011 12:00:00 AM,,0.00,30.00,Accepted
+Tom Rowse,Michael C. Micek,14425 Woodcrest Dr,Rockville,MD,20853,0.00,100.00,0.00,10/17/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Jean B. Saylor-Jones,17 Maryland Ave,Gaithersburg,MD,20877,0.00,50.00,0.00,10/17/2011 12:00:00 AM,,0.00,50.00,Accepted
+Tom Rowse,Alex Diaz,12175 Darnestown Rd,Gaithersburg,MD,20878,0.00,500.00,0.00,10/18/2011 12:00:00 AM,,0.00,500.00,Accepted
+Tom Rowse,Lynn Brown,10519 Bent Tree Dr,Fredericksburg,VA,22407,0.00,50.00,0.00,10/19/2011 12:00:00 AM,,0.00,50.00,Accepted
+Tom Rowse,Lawrence L. Luhn,18428 Azalea Dr,Derwood,MD,20855,0.00,100.00,0.00,10/21/2011 12:00:00 AM,,0.00,100.00,Accepted
+Tom Rowse,Daniel Campos,237 Lower Country Dr,Gaithersburg,MD,20877,20.00,0.00,0.00,10/22/2011 12:00:00 AM,,0.00,20.00,Accepted
+Tom Rowse,Omar Karadag,1 Polk Ct,Gaithersburg,MD,20878,0.00,400.00,0.00,10/24/2011 12:00:00 AM,,0.00,400.00,
+Tom Rowse,Keystone,103 Leeks Lot Way,Gaithersburg,MD,20878,0.00,100.00,0.00,10/24/2011 12:00:00 AM,,0.00,100.00,
+Tom Rowse,Mark R. Olinger,9804 Clagett Farm Dr,Potomac,MD,20854,0.00,500.00,0.00,10/26/2011 12:00:00 AM,,0.00,500.00,
+Tom Rowse,Sub Urban Bros--The Great Sandwich Truck,15841 Redland Rd,Rockville,MD,20855,0.00,0.00,0.00,10/26/2011 12:00:00 AM,Meet and Greet Supplies,60.00,60.00,
+Tom Rowse,Kathleen McClure,810 Pointer Ridge Dr,Gaithersburg,MD,20878,10.00,0.00,0.00,10/29/2011 12:00:00 AM,,0.00,10.00,
+Tom Rowse,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/31/2011 12:00:00 AM,Event Space,125.00,125.00,
+Tom Rowse,Robert M. Hermance,1111 Herman Dr. 25c,Houston,TX,77004,0.00,50.00,0.00,11/1/2011 12:00:00 AM,,0.00,50.00,
+Tom Rowse,Paul J. Yanoshik,12304 Pissaro Dr,North Potomac,MD,20878,0.00,200.00,0.00,11/2/2011 12:00:00 AM,,0.00,200.00,
+Tom Rowse,Gail Schmidt,13602 Autumn Trail Dr,Germantown,MD,20874,50.00,0.00,0.00,11/3/2011 12:00:00 AM,,0.00,50.00,
+Tom Rowse,Douglas R. Sherwood,5800 Griffith Rd,Laytonsville,md,20882,0.00,100.00,0.00,11/4/2011 12:00:00 AM,,0.00,100.00,
+Tom Rowse,Jill Gillette,5088 Reigate Ct,Frederick,MD,21703,50.00,0.00,0.00,11/5/2011 12:00:00 AM,,0.00,50.00,
+Tom Rowse,Kimberly Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,150.00,0.00,12/1/2011 12:00:00 AM,,0.00,150.00,
+Tom Rowse,Thomas S. Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,91.27,0.00,12/31/2011 12:00:00 AM,,0.00,141.27,
+Jud Ashman,The Elegant Envelope,18554 Office Park Drive,Gaithersburg,MD,20886,0.00,0.00,0.00,8/8/2011 12:00:00 AM,Website design services for campaign web site,250.00,250.00,Accepted
+Jud Ashman,Denise McQuighan,924 Pointer Ridge Road,Gaithersburg,MD,20878,0.00,200.00,0.00,8/9/2011 12:00:00 AM,,0.00,200.00,Accepted
+Jud Ashman,K. Mark O&#39;Connor,207 Sportsman Way,Gaithersburg,MD,20878,50.00,0.00,0.00,8/23/2011 12:00:00 AM,,0.00,50.00,Accepted
+Jud Ashman,Robert Murphy,1219 Main Street,Gaithersburg,MD,20878,0.00,100.00,0.00,8/27/2011 12:00:00 AM,,0.00,100.00,Accepted
+Jud Ashman,Rebecca Foote Meloan,311 Tschiffely Square Road,Gaithersburg,MD,20878,0.00,50.00,0.00,8/27/2011 12:00:00 AM,,0.00,50.00,Accepted
+Jud Ashman,Bonnie Lawhorn,410 Bostwick Lane,Gaithersburg,MD,20878,0.00,25.00,0.00,8/27/2011 12:00:00 AM,,0.00,25.00,Accepted
+Jud Ashman,Gary M. Blau,14 Sebastiani Boulevard,Gaithersburg,MD,20878,0.00,25.00,0.00,8/27/2011 12:00:00 AM,,0.00,25.00,Accepted
+Jud Ashman,Robert Drzyzgula,16 Walker Avenue,Gaithersburg,MD,20878,0.00,0.00,0.00,8/30/2011 12:00:00 AM,Services and materials to create and print 5 signs,25.00,25.00,Accepted
+Jud Ashman,Marianne Mardirossian,11940 River Road,Potomac,MD,20854,0.00,500.00,0.00,9/3/2011 12:00:00 AM,,0.00,500.00,Accepted
+Jud Ashman,Stephen Ashman,6005 Roseland Drive,Rockville,MD,20852,0.00,200.00,0.00,9/4/2011 12:00:00 AM,,0.00,200.00,Accepted
+Jud Ashman,Mary Jo LaFrance,105 Chestnut Street,Gaithersburg,MD,20877,0.00,25.00,0.00,9/4/2011 12:00:00 AM,,0.00,25.00,Accepted
+Jud Ashman,Maureen McNamara,12128 Hidden Brook Terrace,North Potomac,MD,20878,50.00,0.00,0.00,9/5/2011 12:00:00 AM,,0.00,50.00,Accepted
+Jud Ashman,Joni Adams Sesma,710 Hope Lane,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,Accepted
+Jud Ashman,Michael Sesma,710 Hope Lane,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,Accepted
+Jud Ashman,Thomas Marchessault,432 Inspiration Lane,Gaithersburg,MD,20878,25.00,0.00,0.00,9/14/2011 12:00:00 AM,,0.00,25.00,Accepted
+Jud Ashman,Brian R. Lang,5210 Edgemoor Lane,Bethesda,MD,20814,0.00,500.00,0.00,9/16/2011 12:00:00 AM,,0.00,500.00,Accepted
+Jud Ashman,Paul Bartholomew,17 Lancashire Drive,Eastampton,NJ,08060,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Domain name registrations for two domains through,38.08,38.08,Accepted
+Jud Ashman,Paul Bartholomew,17 Lancashire Drive,Eastampton,NJ,08060,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Website hosting for two domains through 2012,68.40,106.48,Accepted
+Jud Ashman,Barbara Moquin,44 Napa Valley Road,Gaithersburg,MD,20878,0.00,75.00,0.00,9/23/2011 12:00:00 AM,,0.00,75.00,Accepted
+Jud Ashman,Marvin Lang,5301 Moorland Lane,Bethesda,MD,20814,0.00,500.00,0.00,9/23/2011 12:00:00 AM,,0.00,500.00,Accepted
+Jud Ashman,Michael Aubrey,726 Turtle Pond Lane,Gaithersburg,MD,20878,0.00,500.00,0.00,9/23/2011 12:00:00 AM,,0.00,500.00,Accepted
+Jud Ashman,Jeanne Ellinport,319 Argosy Drive,Gaithersburg,MD,20878,0.00,54.00,0.00,9/23/2011 12:00:00 AM,,0.00,54.00,Accepted
+Jud Ashman,Luiz Simmons,8612 Cedar Street,Silver Spring,MD,20910,0.00,50.00,0.00,9/23/2011 12:00:00 AM,,0.00,50.00,Accepted
+Jud Ashman,Lloyd Kaufman,405 Firehouse Lane,Gaithersburg,MD,20878,50.00,0.00,0.00,9/28/2011 12:00:00 AM,,0.00,50.00,Accepted
+Jud Ashman,Kevin Wiseman,210 Rabbit Road,Gaithersburg,MD,20878,100.00,0.00,0.00,10/1/2011 12:00:00 AM,,0.00,100.00,Accepted
+Jud Ashman,Peggy Murray,4 Walker Avenue,Gaithersburg,MD,20877,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Meet and greet food/drink: Ashman and Drzyzgula,67.50,67.50,Accepted
+Jud Ashman,David Goldberg,421 Tschiffely Square Road,Gaithersburg,MD,20878,0.00,0.00,0.00,10/11/2011 12:00:00 AM,Meet/greet food/drink: Ashman,Drzyzgula, Spiegel,38.07,38.07,Accepted
+Jud Ashman,Edward Richley,14 Walker Avenue,Gaithersburg,MD,20877,0.00,100.00,0.00,10/11/2011 12:00:00 AM,,0.00,100.00,Accepted
+Jud Ashman,Robin Ferrier,632 Azalea Drive,Rockville,MD,20850,0.00,50.00,0.00,10/13/2011 12:00:00 AM,,0.00,50.00,Accepted
+Jud Ashman,Sydney Katz,811 Pointer Ridge Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Town Courier Ad: Ashman, Drzyzgula and Spiegel,126.66,126.66,Accepted
+Jud Ashman,Robert Bindeman,4827 Rugby Avenue, Suite 201,Bethesda,MD,20814,0.00,100.00,0.00,10/14/2011 12:00:00 AM,,0.00,100.00,Accepted
+Jud Ashman,Cathy Drzyzgula,16 Walkker Avenue,Gaithersburg,MD,20877,0.00,0.00,0.00,10/17/2011 12:00:00 AM,Paper and envelopes for support letter,2.88,2.88,Accepted
+Jud Ashman,Jeanne Ellinport,319 Argosy Drive,Gaithersburg,MD,20878,0.00,0.00,0.00,10/18/2011 12:00:00 AM,Food/drink $25 split bet. Ashman,Drzyzgua,Speigel,8.33,62.33,Accepted
+Jud Ashman,Cheryl Kagan,1048 Wintergreen Terrace,Rockville,MD,20850,0.00,25.00,0.00,10/20/2011 12:00:00 AM,,0.00,25.00,Accepted
+Jud Ashman,Linda Gore,60 Oak Shade Road,Gaithersburg,MD,20878,0.00,66.67,0.00,10/21/2011 12:00:00 AM,,0.00,66.67,Accepted
+Jud Ashman,Judith Christensen,6 Walker Avenue,Gaithersburg,MD,20877,100.00,0.00,0.00,10/24/2011 12:00:00 AM,,0.00,100.00,
+Jud Ashman,Josh Bokee,2409 Huntwood Court,Frederick,MD,21702,50.00,0.00,0.00,10/26/2011 12:00:00 AM,,0.00,50.00,
+Jud Ashman,Risa Parsons,7056 SW 48th Lane,Miami,FL,33155,100.00,0.00,0.00,10/26/2011 12:00:00 AM,,0.00,100.00,
+Jud Ashman,Denise McQuighan,924 Pointer Ridge Road,Gaithersburg,MD,20878,0.00,0.00,0.00,10/30/2011 12:00:00 AM,Mat. for draft neighbor letter-split w/ Drzyzgula,3.23,203.23,
+Jud Ashman,Michael Sesma,710 Hope Lane,Gaithersburg,MD,20878,0.00,0.00,0.00,11/7/2011 12:00:00 AM,Sup. neighbor letter-split w/ Drzyzgula,13.64,113.64,
+Jud Ashman,Richard Arkin,121 Selby Street,Gaithersburg,MD,20878,25.00,0.00,0.00,11/7/2011 12:00:00 AM,,0.00,25.00,
+Jud Ashman,Leonard Levy,14 Supreme Court,Gaithersburg,MD 20878,20878,0.00,25.00,0.00,11/15/2011 12:00:00 AM,,0.00,25.00,
+Cathy Drzyzgula,Bob Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,4/25/2011 12:00:00 AM,Domain registration,8.57,8.57,Accepted
+Cathy Drzyzgula,Cathy D for Council,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/15/2011 12:00:00 AM,1 ream  of paper left from previous campaign,0.00,0.00,Accepted
+Cathy Drzyzgula,Jerunazagabr LLC,P.O. Box 61220,Potomac,MD ,20859-1220,0.00,500.00,0.00,8/26/2011 12:00:00 AM,,0.00,500.00,Accepted
+Cathy Drzyzgula,Technology Patents LLC,P.O. Box 61220,Potomac,MD,20859-1220,0.00,500.00,0.00,8/26/2011 12:00:00 AM,,0.00,500.00,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/27/2011 12:00:00 AM,photography,150.00,150.00,Accepted
+Cathy Drzyzgula,Bob Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/30/2011 12:00:00 AM,Poster printing for campaign,50.00,58.57,Accepted
+Cathy Drzyzgula,Denise McQuighan,924 Pointer Ridge Dr.,Gaithersburg,MD,20878,0.00,100.00,0.00,8/30/2011 12:00:00 AM,,0.00,100.00,Accepted
+Cathy Drzyzgula,Mary Jo LaFrance,105 Chestnut St.,Gaithersburg,MD,20877,0.00,25.00,0.00,8/30/2011 12:00:00 AM,,0.00,25.00,Accepted
+Cathy Drzyzgula,Elizabeth Witzgall,20 Walker Ave.,Gaithersburg,MD ,20877,0.00,30.00,0.00,8/30/2011 12:00:00 AM,,0.00,30.00,Accepted
+Cathy Drzyzgula,Bob Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,8/30/2011 12:00:00 AM,Poster printing for campaign 50%,25.00,33.57,Accepted
+Cathy Drzyzgula,Ed Richley,14 Walker Ave.,Gaithersburg,MD,20877,0.00,100.00,0.00,9/3/2011 12:00:00 AM,,0.00,100.00,Accepted
+Cathy Drzyzgula,Dorothy Powell,8 Walker Ave.,Gaithersburg,MD,20877,0.00,25.00,0.00,9/12/2011 12:00:00 AM,,0.00,25.00,Accepted
+Cathy Drzyzgula,Judy Christensen,6 Walker Ave.,Gaithersburg,Md ,20877,0.00,100.00,0.00,9/12/2011 12:00:00 AM,,0.00,100.00,Accepted
+Cathy Drzyzgula,Ellen Stanley,21 Walker Ave.,Gaithersburg,MD,20877,0.00,75.00,0.00,9/13/2011 12:00:00 AM,,0.00,75.00,Accepted
+Cathy Drzyzgula,Mike Sesma,710 Hope La,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,Accepted
+Cathy Drzyzgula,Joni Sesma,710 Hope La,Gaithersburg,MD,20878,100.00,0.00,0.00,9/13/2011 12:00:00 AM,,0.00,100.00,Accepted
+Cathy Drzyzgula,Brian Lang,5210 Edgemoor La.,Bethesda,MD,20814,0.00,500.00,0.00,9/15/2011 12:00:00 AM,,0.00,500.00,Accepted
+Cathy Drzyzgula,Paul Bartholomew,17 Lancashire Dr.,Easthampton,NJ,08060,0.00,0.00,0.00,9/18/2011 12:00:00 AM,website hosting,  estimated value,68.40,68.40,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,9/18/2011 12:00:00 AM,Facebook Advertising ,53.45,203.45,Accepted
+Cathy Drzyzgula,Michael Aubrey,726 Turtle Pond La,Gaithersburg,MD,20877,0.00,500.00,0.00,9/20/2011 12:00:00 AM,,0.00,500.00,Accepted
+Cathy Drzyzgula,Luiz Simmons,8613 Cedar St.,Silver Spring,MD,20910,0.00,50.00,0.00,9/21/2011 12:00:00 AM,,0.00,50.00,Accepted
+Cathy Drzyzgula,Marvin Lang,5301 Moorland Ln,Bethesda,MD,20814,0.00,500.00,0.00,9/21/2011 12:00:00 AM,,0.00,500.00,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,250.00,0.00,9/26/2011 12:00:00 AM,,0.00,453.45,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,225.00,0.00,9/26/2011 12:00:00 AM,,0.00,428.45,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,9/27/2011 12:00:00 AM,stamps and note cards,30.00,458.45,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,9/27/2011 12:00:00 AM,stamps and note cards,30.00,483.45,Accepted
+Cathy Drzyzgula,Lloyd Kaufman,405 Firehouse La.,gaithesrburg,MD,20877,50.00,0.00,0.00,9/28/2011 12:00:00 AM,,0.00,50.00,Accepted
+Cathy Drzyzgula,Naylor Court Design,18 Montgomery Ave.,Gaithersburg,MD,20877,0.00,25.00,0.00,9/29/2011 12:00:00 AM,,0.00,25.00,Accepted
+Cathy Drzyzgula,Peggy Murray,4 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Suppplies for coffee and dessert event,67.50,67.50,Accepted
+Cathy Drzyzgula,David Goldberg,421 Tschiffely Sq. Rd.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/11/2011 12:00:00 AM,Wine and cheese supplies,38.07,38.07,Accepted
+Cathy Drzyzgula,Sidney Katz,811 Pointer Ridge,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Town Courier Ad @ 33%,126.67,126.67,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/15/2011 12:00:00 AM,Paper and envelopes for support letter,2.88,486.33,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/16/2011 12:00:00 AM,Facebook advertising during reporting period,13.78,475.11,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/16/2011 12:00:00 AM,Facebook advertising during reporting period,13.78,467.23,Rejected
+Cathy Drzyzgula,Jeanne Elinport,319 Argosy Dr.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/18/2011 12:00:00 AM,Meet and greet supplies 33%,8.33,8.33,Accepted
+Cathy Drzyzgula,Linda Gore,60 Oak Shade Rd.,Gaithersburg,MD,20878,0.00,66.67,0.00,10/19/2011 12:00:00 AM,,0.00,66.67,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/21/2011 12:00:00 AM,FB Advertising,0.97,476.08,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/22/2011 12:00:00 AM,Notecards and stamps,3.00,479.08,Accepted
+Cathy Drzyzgula,Cathy Drzyzgula,16 Walker Ave.,Gaithersburg,MD,20877,0.00,0.00,0.00,10/29/2011 12:00:00 AM,Paper and envelopes for support letter,2.88,470.11,Rejected
+Cathy Drzyzgula,Denise McQuighan,924 Pointer Ridge Dr.,Gaithersburg,MD,20878,0.00,0.00,0.00,10/30/2011 12:00:00 AM,Paper and paper clips,6.23,106.23,
+Cathy Drzyzgula,Clark Day,26 Walker Ave.,Gaithersburg,MD,20877,100.00,0.00,0.00,11/2/2011 12:00:00 AM,,0.00,100.00,
+Cathy Drzyzgula,Mike Sesma,710 Hope La,Gaithersburg,MD,20878,0.00,0.00,0.00,11/7/2011 12:00:00 AM,Printing neighbor letter,13.64,113.64,
+Cathy Drzyzgula,Richard Arkin,121 Selby St.,Gaithersburg,Md,20878,25.00,0.00,0.00,11/7/2011 12:00:00 AM,,0.00,25.00,
+Cathy Drzyzgula,Bob Ronay,900 N. Stuart St. #922,Arlington,VA ,22203,0.00,100.00,0.00,11/14/2011 12:00:00 AM,,0.00,100.00,
+Paula Ross,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,100.00,0.00,8/17/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Peter Kenah,367 Kentlands Blvd.,Gaithersburg,MD,20878,0.00,35.00,0.00,8/24/2011 12:00:00 AM,,0.00,35.00,Accepted
+Paula Ross,Jennifer Koch,110 Briscoe St,Gaithersburg,MD,20878,0.00,100.00,0.00,8/24/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Dr. Dolores Zumbado,321 Main Street,Gaithersburg,MD,20878,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Amanda Beam,111 Timberbrook Lane #204,Gaithersburg,MD,20878,25.00,0.00,0.00,8/25/2011 12:00:00 AM,,0.00,25.00,Accepted
+Paula Ross,Keystone Real Estate Investments LLC,PO Box 83406,Gaithersburg,MD,20883,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Richard Koch,103 Leekes Lot Way,Gaithersburg,MD,20878,0.00,100.00,0.00,8/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,A W Promotionals,14520 Whirlaway Lane,Gaithersburg,MD,20878,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Run With Paula T-Shirts,100.20,100.20,Accepted
+Paula Ross,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,8/26/2011 12:00:00 AM,Stamps,65.25,65.25,Accepted
+Paula Ross,Potomac Pizza,625 Center Point Way,Gaithersburg,MD,20878,0.00,0.00,0.00,9/7/2011 12:00:00 AM,Cupcakes &amp; Coffee,60.00,60.00,Accepted
+Paula Ross,Shana Orbach,16108 Howard Landing Dr,Gaithersburg,MD,20878,300.00,0.00,0.00,9/7/2011 12:00:00 AM,,0.00,300.00,Accepted
+Paula Ross,Kevin Rowe,17B Firstfield Rd Ste 206,Gaithersburg,MD,20878,100.00,0.00,0.00,9/7/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Jamey Schrier,4701 Randolph Road,Rockville,MD,20852,75.00,0.00,0.00,9/8/2011 12:00:00 AM,,0.00,75.00,Accepted
+Paula Ross,The Great Zucchini C/O Eric Knaus,PO Box 6230,Washington,DC,20015,0.00,0.00,0.00,9/8/2011 12:00:00 AM,Entertainment,350.00,350.00,Accepted
+Paula Ross,Joyce Whitman,648 Chestertown Street,Gaithersburg,MD,20878,0.00,0.00,5.00,9/8/2011 12:00:00 AM,,0.00,5.00,Accepted
+Paula Ross,Kathleen &amp; Christopher Farrell,1010 Main St,Gaithersburg,MD,20878,0.00,40.00,0.00,9/8/2011 12:00:00 AM,,0.00,40.00,Accepted
+Paula Ross,Denise &amp; Kelly Bossard,306 Chestnut Hill Street,Gaithersburg,MD,20878,0.00,25.00,0.00,9/8/2011 12:00:00 AM,,0.00,25.00,Accepted
+Paula Ross,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/13/2011 12:00:00 AM,Stamps &amp; Card Stock,72.67,137.92,Accepted
+Paula Ross,Dr. Alan Ross,113 Closter Plaza,Closter,NJ,07624,0.00,300.00,0.00,9/14/2011 12:00:00 AM,,0.00,300.00,Accepted
+Paula Ross,Andra &amp; Jordan Abramson,706 Market Street East,Gaithersburg,MD,20878,0.00,50.00,0.00,9/15/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,Ailene Renzi,320 Thaxton St,Gaithersburg,MD,20878,65.00,0.00,0.00,9/15/2011 12:00:00 AM,,0.00,65.00,Accepted
+Paula Ross,Wilson &amp; Julianne Faris,711 Hope Lane ,Gaithersburg,MD,20878,0.00,50.00,0.00,9/20/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,Christy Froehlich,613 Kent Oaks Way,Gaithersburg,MD,20878,50.00,0.00,0.00,9/20/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,Ben &amp; Suzanne Price,801 Inspiration Ln.,Gaithersburg,MD,20878,0.00,100.00,0.00,9/21/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Ann Marie Park,825 Village Road,Charlottesville,VA,22903,50.00,0.00,0.00,9/23/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/23/2011 12:00:00 AM,Food &amp; Flowers For Meet &amp; Greet,18.63,156.55,Accepted
+Paula Ross,Henry Marraffa,12 Keystone Dr,Gaithersburg,MD,20878,0.00,0.00,0.00,9/25/2011 12:00:00 AM,Meet &amp; Greet Expenses,115.09,115.09,Accepted
+Paula Ross,Henry Marraffa,12 Keystone Dr,Gaithersburg,MD,20878,0.00,0.00,0.00,9/25/2011 12:00:00 AM,Courier Ad,70.00,185.09,Accepted
+Paula Ross,JoAnn Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,9/25/2011 12:00:00 AM,Courier Ad,70.00,226.55,Accepted
+Paula Ross,James &amp; Leslie Hammond,121 Treehaven St.,Gaithersburg,MD,20878,0.00,100.00,0.00,9/25/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Gary Young,609 Lake Varuna Drive,Gaithersburg,MD,20878,0.00,50.00,0.00,9/30/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,Potomac Pizza,625 Center Point Way,Gaithersburg,MD,20878,0.00,66.17,0.00,10/1/2011 12:00:00 AM,,0.00,126.17,Accepted
+Paula Ross,Charlotte Rupprecht,189 Stanmore Rd,Baltimore,MD,21212,25.00,0.00,0.00,10/2/2011 12:00:00 AM,,0.00,25.00,Accepted
+Paula Ross,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Campaign Event Supplies &amp; Snacks,50.00,150.00,Accepted
+Paula Ross,Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Campaign Event Supplies &amp; Snacks,50.00,50.00,Accepted
+Paula Ross,Andy&#39;s Parties Franchising, LLC,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Halloween Rocks Sponsorship,500.00,500.00,Accepted
+Paula Ross,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,T-Shirt Transfers From Already Opened Pkg,10.00,160.00,Accepted
+Paula Ross,Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,T-Shirt Transfers From Already Opened Pkg,10.00,60.00,Accepted
+Paula Ross,Spagnvola Chocolatier,360 Main St Ste 100,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Space &amp; Chocolate Samples,50.00,50.00,Accepted
+Paula Ross,Liz Corah,1025 Main St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Campaign Event Supplies - Refreshments,40.00,40.00,Accepted
+Paula Ross,Jennifer Allen,641B Main St,Gaithersburg,MD,20878,0.00,0.00,20.00,10/6/2011 12:00:00 AM,,0.00,20.00,Accepted
+Paula Ross,Jennifer Allen,641B Main St.,Gaithersburg,MD,20878,0.00,0.00,20.00,10/6/2011 12:00:00 AM,,0.00,20.00,Accepted
+Paula Ross,Andrew &amp; Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Office &amp; Campaign Supplies,100.00,200.00,Rejected
+Paula Ross,Andrew &amp; Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Halloween Rocks Sponsorship,500.00,700.00,Rejected
+Paula Ross,Andrew &amp; Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Constant Contact &amp; Web Hosting,50.00,750.00,Rejected
+Paula Ross,Andrew &amp; Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,T-Shirt Transfers,20.00,770.00,Rejected
+Paula Ross,Spagnvola Chocolatier,360 Main St. Ste 100,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Space &amp; Chocolate Samples,50.00,50.00,Accepted
+Paula Ross,Liz Corah,1025 Main St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/6/2011 12:00:00 AM,Campaign Event Supplies,40.00,40.00,Accepted
+Paula Ross,Andrew &amp; Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Campaign Event Supplies,23.00,793.00,Rejected
+Paula Ross,Andrew &amp; Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Mailing Supplies,21.00,814.00,Rejected
+Paula Ross,Nicole Karp,315 Tschiffely Sq. Rd.,Gaithersburg,MD,20878,0.00,0.00,10.00,10/14/2011 12:00:00 AM,,0.00,10.00,Accepted
+Paula Ross,Robin Jaffe,11112 Potomac Oaks Dr.,Rockville,MD ,20850,0.00,0.00,5.00,10/14/2011 12:00:00 AM,,0.00,5.00,Accepted
+Paula Ross,Dream Company LLC DBA My Gym,620 Center Point Way,Gaithersburg,MD,20878,0.00,200.00,0.00,10/14/2011 12:00:00 AM,,0.00,200.00,Accepted
+Paula Ross,Nicole Karp,315 Tschiffely Sq Rd,Gaithersburg,MD,20878,0.00,0.00,10.00,10/14/2011 12:00:00 AM,,0.00,10.00,Accepted
+Paula Ross,Robin Jaffe,11112 Potomac Oaks Dr,Rockville,MD,20850,0.00,0.00,5.00,10/14/2011 12:00:00 AM,,0.00,5.00,Accepted
+Paula Ross,Dream Company LLC DBA My Gym,620 Center Point Way,Gaithersburg,MD,20878,0.00,200.00,0.00,10/14/2011 12:00:00 AM,,0.00,200.00,Accepted
+Paula Ross,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Campaign Event Supplies - Refreshments,11.50,171.50,Accepted
+Paula Ross,Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Campaign Event Supplies - Refreshments,11.50,71.50,Accepted
+Paula Ross,Andrew Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Mailing Supplies,10.50,182.00,Accepted
+Paula Ross,Paula Ross,326 Chestnut Hill St,Gaithersburg,MD,20878,0.00,0.00,0.00,10/14/2011 12:00:00 AM,Mailing Supplies,10.50,82.00,Accepted
+Paula Ross,DJ Eclipse - Eclipse Entertainment LLC ,640B Main St,Gaithersburg,MD,20878,0.00,50.00,0.00,10/16/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,DJ Eclipse - Eclipse Entertainment LLC,640B Main St.,Gaithersburg,MD,20878,0.00,50.00,0.00,10/16/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,Angie &amp; Jarrod Borkat,119 Claggett Crossing,Gaithersburg,MD,20878,0.00,0.00,0.00,10/18/2011 12:00:00 AM,Drinks &amp; Snacks For Meet &amp; Greet,49.00,49.00,Accepted
+Paula Ross,Nicole Karp,315 Tschiffely Sq Rd,Gaithersburg,MD,20878,0.00,0.00,10.00,10/18/2011 12:00:00 AM,,0.00,20.00,Accepted
+Paula Ross,Ilene &amp; Lee Smith,14801 Mockingbird Drive,Darnestown,MD,20874,0.00,50.00,0.00,10/18/2011 12:00:00 AM,,0.00,50.00,Accepted
+Paula Ross,Robert &amp; Marilyn Hermance,1111 Herman Dr 25C,Houston,TX,77004,0.00,100.00,0.00,10/18/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Will &amp; Jib Corbin,350 Hart Rd,Gaithersburg,MD,20878,0.00,100.00,0.00,10/20/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Jared &amp; Cindy Entin,444 Clayhall St,Gaithersburg,MD,20878,0.00,100.00,0.00,10/20/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Daniel Campos,237 Lower Country Dr,Gaithersburg,MD,20877,20.00,0.00,0.00,10/21/2011 12:00:00 AM,,0.00,20.00,Accepted
+Paula Ross,Jana Kay,5303 Wriley Road,Bethesda,MD,20816,100.00,0.00,0.00,10/22/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Andra &amp; Jordan Abramson,706 Market Street East,Gaithersburg,MD,20878,0.00,50.00,0.00,10/23/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Studio-310,9743 Traville Gateway Dr,Rockville,MD,20850,0.00,100.00,0.00,10/23/2011 12:00:00 AM,,0.00,100.00,Accepted
+Paula Ross,Kim Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,10/26/2011 12:00:00 AM,Supplies For Meet &amp; Greet,60.00,60.00,
+Paula Ross,William Dahut,309 Beckwith Street,Gaithersburg,MD,20878,100.00,0.00,0.00,10/29/2011 12:00:00 AM,,0.00,100.00,
+Paula Ross,Paul J. Yanoshik,12304 Pissaro Drive,North Potomac,MD,20878,0.00,200.00,0.00,11/2/2011 12:00:00 AM,,0.00,200.00,
+Paula Ross,Paul Schimke,734 Tiffany Court,Gaithersburg,MD,20878,0.00,0.00,0.00,11/2/2011 12:00:00 AM,Courier Ad,50.00,50.00,
+Paula Ross,Jason R. Owen,3816 Blossom Terrace,Erie,PA,16506,0.00,25.00,0.00,11/4/2011 12:00:00 AM,,0.00,25.00,
+Paula Ross,Michael Silver,4523 Rosedale Avenue,Bethesda,MD,20814,50.00,0.00,0.00,11/8/2011 12:00:00 AM,,0.00,50.00,
+Paula Ross,Kim Rowse,101 Dogwood Drive,Gaithersburg,MD,20877,0.00,0.00,0.00,11/8/2011 12:00:00 AM,Sample Ballots,20.00,80.00,
