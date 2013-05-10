@@ -1,5 +1,10 @@
-flask
-saucebrush
-requests
-python-memcached
-# whoosh
+Flask==0.9
+Jinja2==2.6
+Markdown==2.3.1
+Werkzeug==0.8.3
+cssselect==0.8
+lxml==3.2.0
+pyquery==1.2.4
+python-memcached==1.51
+requests==1.2.0
+-e git://github.com/sunlightlabs/saucebrush.git@9a0efd71c20ad57cdef0b8f8a99d6430e4e5b466#egg=saucebrush-dev
